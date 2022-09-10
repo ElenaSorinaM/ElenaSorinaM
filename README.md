@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElenaSorinaM
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Vue 3 and Tailwind
 
 <!---
 ElenaSorinaM/ElenaSorinaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
